@@ -218,6 +218,7 @@ def preorder_itr(node):
 
 def inorder_itr(node):
     # L N R : Left, Node, Right
+    # L N R : Left, Node, Right uududududu ududududuu
     # 1) Create an empty stack S.
     # 2) Initialize current node as root
     # 3) Push the current node to S and set current = current->left until current is NULL
