@@ -226,6 +226,7 @@ def inorder_itr(node):
     #     b) Print the popped item, set current = popped_item->right 
     #     c) Go to step 3.
     # 5) If current is NULL and stack is empty then we are done.
+    # 5) If current is NULL and stack is empty then we are done fffffffffffffffff rr rweee
     stack = []
     current = node
     while True:
