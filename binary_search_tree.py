@@ -11,7 +11,7 @@ class Node:
          # self.level = None
     def __str__(self):
         return str(self.info)
-
+ """Initialising a node"""
     def __del__(self):
         del self
 
