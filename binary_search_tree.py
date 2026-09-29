@@ -1,7 +1,6 @@
 import sys
 
 class Node:
-    """Class for node of a tree"""
     def __init__(self, info):
         """Initialising a node"""
         self.info = info
