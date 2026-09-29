@@ -14,7 +14,7 @@ class Node:
  """Initialising a node"""
     def __del__(self):
         del self
-
+ """Initialising a node"""
 
 class BinarySearchTree:
     """Class for BST"""
